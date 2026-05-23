@@ -1,4 +1,4 @@
-# Hi, I'm Anjali Sharma 👋
+# Hi, I'm Anjali Sharma 
 
 ### Full Stack Developer & Problem Solver passionate about building scalable web applications and AI-powered solutions.
 
@@ -64,5 +64,5 @@ MERN stack application for managing books, users, and issue/return records.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/anjaliii0
-- LinkedIn:[ Add Your LinkedIn Link](https://www.linkedin.com/in/anjali-sharma-49ab162b3/)
+- LinkedIn:[LinkedIn Link](https://www.linkedin.com/in/anjali-sharma-49ab162b3/)
 - Email: anjali8271885227@gmail.com
